@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="com.esri.arcgis.javase.core.project.ARCGIS_RUNTIME_JAVA_SDK_DEPENDS/F|/software/j2ee software/eclipse-jee-luna-R-win32/eclipse/configuration/org.eclipse.osgi/843/0/.cp/lib/"/>
+	<classpathentry kind="lib" path="C:/Program Files/ArcGIS SDKs/java10.2.4/sdk/Eclipse Plugin/plugins/com.esri.arcgis.javase.toolkit_10.2.4.201410032102.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/ArcGIS SDKs/java10.2.4/sdk/jars/ArcGIS_Runtime_Java_Toolkit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
